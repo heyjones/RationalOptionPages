@@ -1,0 +1,6 @@
+{
+	"name": "jeremyHixon/RationalOptionPages",
+	"type": "library"
+	"description": "A PHP class for building WordPress Option Pages.",
+	"license": "MIT"
+}
